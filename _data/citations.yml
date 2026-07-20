@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-20'
 papers:
+  s24TAWQAAAAJ:9yKSN-GCB0IC:
+    citations: 0
+    title: 'The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology'
+    year: '2026'
   s24TAWQAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: Phase-Aware Wavelet-Based-Scattering Encoder-Decoder for Dense Predictions
