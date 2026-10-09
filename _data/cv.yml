@@ -45,8 +45,8 @@ cv:
       - company: Conservatoire National des Arts et Métiers (SU)
         position: Lecturer
         location: Paris, France
-        start_date: 2024-11
-        end_date: 2026-10
+        start_date: 2026-11
+        end_date: Current
         highlights:
           - Virtualized and Cloud Systems (LP)
           - System and Network Administration (DEUST)
@@ -69,23 +69,6 @@ cv:
         start_date: 2023-04
         end_date: 2023-09
         summary: Proposed a new domain adaptation architecture for homogeneous time series, combining Shapelets and ADDA.
-  
-    Publications:
-      - title: "Incremental clustering based on Wasserstein distance between histogram models"
-        authors: ["X. Qian", "G. Cabanes", "P. Rastin", "M. A. Guidani", "G. Marrakchi", "M. Clausel", "N. Grozavu"]
-        publisher: Pattern Recognition, Vol. 162
-        releaseDate: 2025-01
-        
-      - title: "Phase-Aware Wavelet-Scattering-Based Encoder-Decoder for Dense Predictions"
-        authors: ["G. Marrakchi", "B. Matei"]
-        publisher: Submitted to International Conference on Machine Learning (ICML)
-        releaseDate: 2026-01
-  
-    Skills:
-      - name: Machine Learning
-        keywords: "Python, Scikit-learn, TensorFlow, PyTorch"
-      - name: Data & Systems
-        keywords: "SQL, Tableau, SAS, C/C++, Bash, Linux, Raspberry Pi"
   
     Languages:
       - name: French
