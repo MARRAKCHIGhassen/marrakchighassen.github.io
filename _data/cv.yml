@@ -6,6 +6,15 @@ cv:
   sections:
     Education:      
       - institution: Université Sorbonne Paris Nord (USPN)
+        area: Computer Science -- Computer Vision
+        studyType: PhD
+        start_date: 2021-09
+        end_date: Current
+        highlights:
+          - Supervised by Basarab MATEI
+          - Anatomical structures 3D segmentation and reconstruction using Self-Supervised Deep Learning
+          
+      - institution: Université Sorbonne Paris Nord (USPN)
         area: Computer Science -- Data Mining and Decision-Making (EID2)
         studyType: Master of Science
         start_date: 2021-09
@@ -32,12 +41,23 @@ cv:
         highlights:
           - Data Visualization (L3)
           - Project supervision (M2)
-  
+
+      - company: Conservatoire National des Arts et Métiers (SU)
+        position: Lecturer
+        location: Paris, France
+        start_date: 2024-11
+        end_date: 2026-10
+        highlights:
+          - Virtualized and Cloud Systems (LP)
+          - System and Network Administration (DEUST)
+          - Networks (DSP)
+          - Office Software (CPDA)
+          
       - company: Sorbonne Université (SU)
         position: Teaching Assistant
         location: Paris, France
         start_date: 2024-11
-        end_date: Present
+        end_date: 2026-10
         highlights:
           - Data Structures (L2)
           - Algorithms (L3)
