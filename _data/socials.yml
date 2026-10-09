@@ -3,7 +3,7 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/CV-FR.pdf # path to your CV PDF file
 email: ghassen.marrakchi@lipn.univ-paris13.fr # your email address
-work_url: marrakchighassen.github.io
+work_url: https://marrakchighassen.github.io
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: s24TAWQAAAAJ # your Google Scholar ID
