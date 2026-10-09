@@ -27,6 +27,23 @@ layout: default
           target="_blank"
           rel="noopener noreferrer"
           class="float-right"
+          title="English CV"
+        >
+          <i class="fa-solid fa-file-pdf"></i>
+        </a>
+      {% endif %}
+      {% if page.cv_pdf_fr %}
+        <a
+          {% if page.cv_pdf_fr contains '://' %}
+            href="{{ page.cv_pdf_fr }}"
+          {% else %}
+            href="{{ page.cv_pdf_fr | relative_url }}"
+          {% endif %}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="float-right"
+          style="margin-right: 15px;"
+          title="French CV"
         >
           <i class="fa-solid fa-file-pdf"></i>
         </a>
